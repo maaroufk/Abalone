@@ -9,3 +9,4 @@ After comparing different models, we found that the CatBoost Regressor worked th
 
 In summary, this project showcased the effectiveness of machine learning in predicting the age of abalone based on various physical and contextual features. The success of the CatBoost model underscores the potential of advanced ensemble techniques in deciphering complex patterns and relationships within biological datasets, offering a promising avenue for understanding and forecasting age-related patterns in marine organisms.
 # Video Link
+https://youtu.be/G0JNs69zLAU
