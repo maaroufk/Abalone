@@ -1,4 +1,6 @@
+
 # EE8603 Final Term Project - Abalone
+# Maarouf Kesserwan -- ID:501150033
 # Abstract
 
 The primary objective of this project was to analyze and predict the age of abalone using a dataset that encompassed various physical measurement. The conventional method of age determination, involving the laborious task of cutting shells and counting rings, was circumvented in favor of a machine learning approach.
